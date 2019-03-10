@@ -1,0 +1,13 @@
+name: Healz
+main: Eliah\Healz
+version: 1.0.0
+api: [3.0.0, 4.0.0]
+author: Eliah
+commands:
+  heal:
+    description: "Fill up the life of yourself or another player."
+  feed:
+    description: "Fill up your hunger pangs from you or another player."
+  healz:
+    description: "Healz plugin."
+    aliases: [Healz]

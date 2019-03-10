@@ -1,0 +1,15 @@
+---
+  #here can edit the messages
+Run_Ingame: Please run this command InGame!
+Heal_self: You have §asuccessfully §ffilled your life.
+Heal_other: You have §afilled §fthe lives of§6
+Feed_self: You have §asuccessfully §ffilled your hunger.
+Feed_other: You have §afilled §fthe hunger of§6
+Player_isCreative: The player is in the §2Creativemode.
+Self_isCreative: You are in the §2Creativemode.
+Player_not_found: §cThe selected player could not be found.
+Player_was_healed: Your lives have been §areplenished §fby§d
+Player_was_feed: Your feed have been §areplenished §fby§d
+No_Permissions: §cYou have no permission to do this.
+plugin_disable: The plugin was §cdisabled.
+...
