@@ -1,9 +1,10 @@
 # Healz
 
-Set a position where a player should be teleported while walking through a portal. This is a pocketmine plugin
+Use /heal to heal or /feed to feed you or a other player.
 
 commands:
-  /setend = Set the position.
+  /heal | Heal yourself or another player.
+  /feed | Feed yourself or another player.
 
 permissions:
   healz.heal
